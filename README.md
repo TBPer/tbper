@@ -11,9 +11,12 @@ I'm always intrigued by the software delivery and scalablity, and I believe that
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> 
 ---
-
-<p style="text-align: center;">
-  <a href="https://www.linkedin.com/in/tbper"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="100" height="100" />
+<p align="center">
+    <a href="https://github.com/TBPer"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" alt="GitHub Profile" width="30" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/tbper"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="LinkedIn Profile" width="30" height="30" />
+  </a>
+  <a href="https://twitter.com/PerTBoonmee"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="Twitter Profile" width="30" height="30" />
   </a>
 </p> 
 <!--
